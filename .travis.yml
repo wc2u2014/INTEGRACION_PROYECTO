@@ -1,0 +1,6 @@
+lenguage: php 
+php:-"5.4"
+install:
+-pip install -r requerements.txt
+script:
+-INTEGRACION_PROYECTO/cumpliendo-master/public/index.php
